@@ -1,0 +1,6 @@
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPServerConsole\TCPServerConsole\bin\Debug\TCPServerConsole.exe.config
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPServerConsole\TCPServerConsole\bin\Debug\TCPServerConsole.exe
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPServerConsole\TCPServerConsole\bin\Debug\TCPServerConsole.pdb
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPServerConsole\TCPServerConsole\obj\Debug\TCPServerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPServerConsole\TCPServerConsole\obj\Debug\TCPServerConsole.exe
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPServerConsole\TCPServerConsole\obj\Debug\TCPServerConsole.pdb
