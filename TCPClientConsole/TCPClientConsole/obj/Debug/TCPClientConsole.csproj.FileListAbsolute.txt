@@ -1,0 +1,5 @@
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPClientConsole\TCPClientConsole\bin\Debug\TCPClientConsole.exe.config
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPClientConsole\TCPClientConsole\bin\Debug\TCPClientConsole.exe
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPClientConsole\TCPClientConsole\bin\Debug\TCPClientConsole.pdb
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPClientConsole\TCPClientConsole\obj\Debug\TCPClientConsole.exe
+C:\Users\Hank\Documents\GitHub\TCPPractice\TCPClientConsole\TCPClientConsole\obj\Debug\TCPClientConsole.pdb
